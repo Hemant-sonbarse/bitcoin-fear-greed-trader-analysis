@@ -130,30 +130,28 @@ Trader-Performance-vs-Market-Sentiment/
 
 ## How to Run
 
-1. Clone this repository.
+1. Clone the repository.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Hemant-sonbarse/bitcoin-fear-greed-trader-analysis.git
 ```
 
 2. Navigate to the project directory.
 
 ```bash
-cd Trader-Performance-vs-Market-Sentiment
+cd bitcoin-fear-greed-trader-analysis
 ```
 
-3. Install the required libraries.
+3. Install the required dependencies.
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Open the notebook.
+4. Launch Jupyter Notebook.
 
 ```bash
 jupyter notebook
 ```
 
-5. Run all notebook cells from top to bottom.
-
----
+5. Open **Trader_Performance_Analysis.ipynb** and run all cells from top to bottom.
